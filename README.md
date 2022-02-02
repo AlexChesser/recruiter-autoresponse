@@ -8,20 +8,15 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Thanks so much for reaching out. I’m always interested in hearing about new and exciting opportunities.
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+As a software engineer, I get a very high volume of recruiters contacting me on LinkedIn, so I don’t have time for phone calls with everyone.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+Incoming opportunities often represent a very poor fit, so before we continue our conversation, I’d like to ask about the level of seniority that you’re looking for.
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+Can you send along the company name, job description, and compensation details for the role? Without this information, I am unavailable for further discussion.
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
-
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
- 
-I look forward to hearing from you.
+Thanks again for reaching out. I look forward to hearing from you.
 
 Alex
 ```
